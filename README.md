@@ -3,8 +3,8 @@
 </div>
 
 <!-- prettier-ignore-start -->
-[!INFO]
-This repository is a fork focused on adding helpful features and modernizing the plugin.
+> [!TIP]
+> This repository is a fork focused on adding helpful features and modernizing the plugin.
 <!-- prettier-ignore-end -->
 
 ## About
