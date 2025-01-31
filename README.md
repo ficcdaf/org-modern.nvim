@@ -72,4 +72,17 @@ The following is a description of the menu configuration options:
     on floats with lower indices), must be larger than zero.
 - `icons` (`table`) — used for configuring icons, the following options are
   available:
+
   - `separator` (`string`) — icon used between key and label.
+
+  ### Highlights
+
+  The following highlight groups are used. You may change them as desired,
+  please see `:h vim.api.nvim_set_hl` or `:h hi`
+
+  | Name               | Default Link      | Fallback Link |
+  | ------------------ | ----------------- | ------------- |
+  | OrgModernKey       | WhichKey          | Function      |
+  | OrgModernSeparator | WhichKeySeparator | Comment       |
+  | OrgModernDesc      | WhichKeyDesc      | Identifier    |
+  | OrgModernTitle     | WhichKeyTitle     | FloatTitle    |
