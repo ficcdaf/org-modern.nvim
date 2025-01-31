@@ -2,14 +2,18 @@
   <h1><code>org-modern.nvim</code></h1>
 </div>
 
+## About
+
+This plugin adds a modern style to Org mode buffers.
+
 <!-- prettier-ignore-start -->
 > [!TIP]
 > This repository is a fork focused on adding helpful features and modernizing the plugin.
 <!-- prettier-ignore-end -->
 
-## About
+### New Features
 
-This plugin adds a modern style to Org mode buffers.
+- Sensible highlight groups.
 
 ## Modern menu
 
