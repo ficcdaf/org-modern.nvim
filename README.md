@@ -22,7 +22,7 @@ This plugin adds a modern style to Org mode buffers.
 The menu is used when selecting further actions in `agenda`, `capture` and
 `export`.
 
-![Modern menu preview](https://github.com/danilshvalov/org-modern.nvim/assets/57654917/492fe346-46d5-486a-adbe-f2d4e3635503)
+![Modern menu preview](./assets/preview.png)
 
 ### Configuration
 
